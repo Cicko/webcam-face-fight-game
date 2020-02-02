@@ -1,0 +1,28 @@
+{
+  "name": "webcam-face-fight-game",
+  "version": "1.0.0",
+  "description": "Fight game where your face is shown on the players face through your webcam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cicko/webcam-face-fight-game.git"
+  },
+  "keywords": [
+    "game",
+    "2d",
+    "indie",
+    "webcam",
+    "face",
+    "funny",
+    "fight"
+  ],
+  "author": "Rudolf Cicko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cicko/webcam-face-fight-game/issues"
+  },
+  "homepage": "https://github.com/Cicko/webcam-face-fight-game#readme"
+}
